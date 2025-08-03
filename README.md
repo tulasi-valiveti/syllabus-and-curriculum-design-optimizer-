@@ -78,4 +78,27 @@ syllabus-optimizer/
 - Access to Watsonx.ai and Granite 8b LLM
 - Python 3.8+ or Node.js (depending on implementation)
 - Git and terminal access
+Example Use Case
+Input: "Introduction to Artificial Intelligence"
 
+Output:
+
+Course Objectives aligned with Bloom’s Taxonomy
+
+Weekly module breakdown with descriptions
+
+Suggested assessments and references
+
+CLO-PLO Matrix
+
+Accreditation alignment summary
+
+Exportable PDF syllabus
+
+
+
+📬 Contact
+Developer: tulasi lakshmi
+Email: tulasivaliveti123@gmail.com
+
+GitHub: https://github.com/tulasi-valiveti
