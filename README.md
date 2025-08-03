@@ -1,4 +1,4 @@
-# syllabus-and-curriculum-design-optimizer-
+
 # 📘 Syllabus and Curriculum Design Optimizer
 
 > **AI-powered curriculum design tool** using IBM Cloud, Watsonx.ai, and Granite 8b  
