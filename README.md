@@ -43,7 +43,7 @@ The platform:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/syllabus-curriculum-optimizer.git
+git clone https://github.com/tulasi-valiveti/syllabus-curriculum-optimizer.git
 cd syllabus-curriculum-optimizer
 ```
 
