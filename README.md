@@ -1,6 +1,6 @@
 # 📘 Syllabus and Curriculum Design Optimizer
 
-![Syllabus and Curriculum Design Optimizer](./curriculum_agent.jpg)
+
 
 
 The **Syllabus and Curriculum Design Optimizer** is an AI-powered educational tool built using **IBM Cloud** services and the **IBM Granite Foundation Model**. This system assists academic institutions, educators, and curriculum developers in designing optimized, industry-relevant syllabi and curricula with the help of AI recommendations, data analysis, and intelligent planning.
